@@ -1,4 +1,4 @@
-import ship from '../../factories/ship'
+import ship from '../factories/ship'
 
 // TIMES HIT
 test('times hit 1', () => {
